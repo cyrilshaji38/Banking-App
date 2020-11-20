@@ -1,9 +1,7 @@
 # MyBank
 This is a Sparks Foundation GRIP (Graduate Rotational Internship Program) Technology Task.
 
-Task 2:
-
-Basic Banking App
+## Task 2: Basic Banking App
 
 ◇ Create a simple mobile app which has the following specs.
 
